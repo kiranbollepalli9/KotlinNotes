@@ -1,3 +1,3 @@
 # KotlinNotes
 
-https://github.com/kiranbollepalli9/KotlinNotes/wiki
+https://github.com/kiranbollepalli9/KotlinNotes/wiki/Notes
